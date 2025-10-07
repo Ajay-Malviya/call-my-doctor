@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+:root {
+  --font-poppins: 'Poppins', sans-serif;
+  --btn-green-shadow: 0px 8px 23px 0px #30b2303d;
+}
+
+body {
+  font-family: var(--font-poppins), sans-serif;
+}
